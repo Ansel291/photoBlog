@@ -12,6 +12,7 @@ React.js | create-react-app | Netlify
 CSS | styled-components | |
 HTML5 | react-icons |  |
 Github | | |
+Visual Studio | | |
 
 ## Deployment / Production URL:
 
