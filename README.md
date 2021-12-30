@@ -8,21 +8,14 @@ This is my first venture into creating a React.js App.  This is a photography bl
 
 Development: | NPM Packages: | Deployment:
 ----| ---| ---
-React.js | styled-components | Netlify 
-CSS | react-icons  | |
-HTML5 | |  |
+React.js | create-react-app | Netlify 
+CSS | styled-components | |
+HTML5 | react-icons |  |
 Github | | |
-
-
-
 
 ## Deployment / Production URL:
 
 https://photo-blog-ja.netlify.app/
-
-
-
-
 ## Design:
 
 ### Styled Component:
@@ -30,8 +23,6 @@ https://photo-blog-ja.netlify.app/
 
 ### Reusable Component:
 ![App Screenshot](https://i.imgur.com/EDp8fv4.png)
-
-
 ## Milestones:
 
 - Responsive UI from Mobile (320px wide) to desktop.
