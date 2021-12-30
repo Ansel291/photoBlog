@@ -19,10 +19,10 @@ https://photo-blog-ja.netlify.app/
 
 ## Design:
 
-#### Styled Component:
+#### Styled Component
 ![App Screenshot](https://i.imgur.com/6C3S1Ss.png)
 
-#### Reusable Components:
+#### Reusable Component
 ![App Screenshot](https://i.imgur.com/EDp8fv4.png)
 
 
