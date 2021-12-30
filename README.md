@@ -1,3 +1,4 @@
+
 # Photo Blog App
 
 This is my first venture into creating a React.js App.  This is a photography blog App using react styled components that are reusable.
@@ -47,3 +48,7 @@ Jason Asahara | [GitHub](https://github.com/Ansel291) | [jasahara@yahoo.com](jas
 ## Upcoming Features
 - Navigation
 - Restyled Hero Section
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
