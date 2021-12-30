@@ -1,5 +1,5 @@
 
-# Photo Blog
+# Photo Blog App
 
 This is my first venture into creating a React.js App.  This is a photography blog App using react styled components that are reusable.
 ## Tech Stack
@@ -32,7 +32,7 @@ https://photo-blog-ja.netlify.app/
 - Re-usable components
 - The components are dynamically created from a mapped data.js file
 
-#### Inspiration:
+## Inspiration:
 This app is based on Traversy Media's tutorial
 
 - [Styled Components Crash Course & Project](https://www.youtube.com/watch?v=02zO0hZmwnw)
@@ -44,7 +44,6 @@ This app is based on Traversy Media's tutorial
 ---------| ---------- | ---------
 Jason Asahara | [GitHub](https://github.com/Ansel291) | [jasahara@yahoo.com](jasahara@yahoo.com)
 
-## Milestones:
 
 ## Upcoming Features
 - Navigation
